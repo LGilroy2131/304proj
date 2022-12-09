@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'BCWSTOOLSHED'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E091561916BA47BCADE86FB7AC23622D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AD889371A31F472A8AB9B7C8C00D0B32 }}
           package: '*.jar'
